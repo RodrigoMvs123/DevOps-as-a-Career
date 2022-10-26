@@ -4,6 +4,9 @@
 
 https://www.youtube.com/watch?v=2NtiI0Ojczw
 
+https://raw.githubusercontent.com/RodrigoMvs123/DevOps-as-a-Career/main/README.md
+
+
 
 Software Developer / Sys Admin 
 Code
